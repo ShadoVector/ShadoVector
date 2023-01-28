@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShadoVector
-- 👀 We are a startup company based on edutech
+- 👀 We are a startup company based on payment service (shadoPay) and edutech (ShadoSkiller)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me shadovector@gmail.com
 
